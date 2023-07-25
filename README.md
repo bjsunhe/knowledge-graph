@@ -1,10 +1,12 @@
 # knowledge-graph
 
+--- 
+
 ## promise
 ## event loop
 ## throttle
 
-
+---
 
 ## redux
 ## redux-saga
@@ -12,6 +14,6 @@
 ## connect-react-route
 ## dva
 
-
+---
 
 ## shopping cart
