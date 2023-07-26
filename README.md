@@ -11,8 +11,10 @@
 ## redux
 ## redux-saga
 ## react-router
-## connect-react-route
+## connect-react-router
 ## dva
+## typescript
+## axios cookie
 
 ---
 
