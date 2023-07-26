@@ -17,3 +17,5 @@
 ---
 
 ## shopping cart
+## input reg
+## login
