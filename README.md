@@ -25,3 +25,9 @@
 ## carousel
 ## dropdown
 ## collapse
+
+---
+
+# GPAI
+## future of work interview
+## video, poster design for gpai
